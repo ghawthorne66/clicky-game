@@ -71,7 +71,7 @@ class App extends Component {
 
   render() {
     return (
-      <div>
+      <wrap>
         <NavBar style={{ background: "#313133", marginBottom: "5px" }} />
 
         <GridMDC container direction="column" style={{ margin: "0 auto", maxWidth: 945 }}>
@@ -121,7 +121,7 @@ class App extends Component {
           <a href="" target="_blank" className="link" alt="clicky-game-github-link"><i className="fa fa-github fa-2x"></i></a>
         </BottomNavMDC>
 
-      </div>
+      </wrap>
     )
   }
 }
