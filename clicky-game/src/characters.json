@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Germany",
+        "image": "../imgs/germany.svg"
+    },
+    {
+        "id": 2,
+        "name": "Spain",
+        "image": "../imgs/spain.svg"
+    },
+    {
+        "id": 3,
+        "name": "Great Britain",
+        "image": "../imgs/greatBritain.svg"
+    },
+    {
+        "id": 4,
+        "name": "United States",
+        "image": "../imgs/unitedStates.svg"
+    },
+    {
+        "id": 5,
+        "name": "France",
+        "image": "../imgs/france.svg"
+    },
+    {
+        "id": 6,
+        "name": "Brazil",
+        "image": "../imgs/brazil.svg"
+    },
+    {
+        "id": 7,
+        "name": "Andorra",
+        "image": "../imgs/andorra.svg"
+    },
+    {
+        "id": 8,
+        "name": "Canada",
+        "image": "../imgs/canada.svg"
+    },
+    {
+        "id": 9,
+        "name": "Mexico",
+        "image": "../imgs/mexico.svg"
+    },
+    {
+        "id": 10,
+        "name": "Russia",
+        "image": "../imgs/russia.svg"
+    },
+    {
+        "id": 11,
+        "name": "Ukraine",
+        "image": "../imgs/ukraine.svg"
+    },
+    {
+        "id": 12,
+        "name": "Columbia",
+        "image": "../imgs/columbia.png"
+    }
+
+]
